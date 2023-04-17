@@ -38,4 +38,4 @@ int main() {
 		s.clear();
 	}
 } 
-/// koniec tego projektu dla githuba
+/// koniec projektu dla tego repozytorium githuba
